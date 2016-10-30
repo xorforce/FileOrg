@@ -1,8 +1,7 @@
 #FileOrg
 A File Organising Python Script categorizing files in folders.
 
-Working:  ![alt tag](http://media.giphy.com/media/l0Nwxkuf8R4AH4OYw/giphy.gif )
-
+Working:  
 Credits: The original idea credits go to [Aditya_Chowdhry](https://github.com/Aditya-Chowdhry/file_organizer) who made this script in Ruby. 
 
 How to run:
